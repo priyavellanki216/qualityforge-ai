@@ -1,0 +1,26 @@
+# Project TODO
+
+- [x] Establish a premium QualityForge AI visual system with dark/light theme support and accessible responsive foundations
+- [x] Build the public landing page with product narrative, capability sections, pricing, FAQ, and demo entry point
+- [x] Create protected application routing with Manus OAuth demo access and role-aware workspace navigation
+- [x] Define and migrate normalized domain tables for projects, test suites, test cases, executions, defects, releases, pipelines, AI analyses, and audit events
+- [x] Seed internally consistent workspace data covering projects, test cases, executions, defects, releases, pipeline activity, and team context
+- [x] Implement dashboard metrics, quality scorecards, analytics charts, release-risk insights, and recent engineering activity
+- [x] Implement project, test case, and defect management workflows with usable search, filtering, editing, status changes, and persistence
+- [x] Implement AI Test Generator, AI Root-Cause Analysis, AI failure intelligence, and Forge Assistant workflows with real loading and error states
+- [x] Implement API testing workspace, UI automation run simulation, test execution controls, and CI/CD quality-gate interactions
+- [x] Implement release-readiness, engineering analytics, team collaboration, and audit-log workspace views
+- [x] Add automated tests covering business logic and critical user interaction states
+- [x] Verify type safety, build output, dashboard visual quality, and responsive navigation
+- [x] Add role-aware workspace navigation and protected action guards
+- [x] Implement persisted project create, edit, archive, and detail workflows
+- [x] Bind failure intelligence and Forge Assistant to live workspace data with explicit AI error states
+- [x] Complete stateful execution-center and pipeline demo controls
+- [x] Add frontend workflow tests for navigation, API simulation, and defect status updates
+- [x] Enforce role checks for direct protected workspace routes and privileged backend actions
+- [x] Add a persisted project detail workflow from the project inventory
+- [x] Add interaction-level tests for API simulation and defect status updates
+- [x] Separate public demo data routes from protected workspace administration routes
+- [x] Add component-level interaction tests for API simulation and defect status controls
+- [ ] Route protected administration pages through guarded data procedures
+- [ ] Wire tested API and defect controls into the live workspace views
