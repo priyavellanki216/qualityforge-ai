@@ -22,5 +22,6 @@
 - [x] Add interaction-level tests for API simulation and defect status updates
 - [x] Separate public demo data routes from protected workspace administration routes
 - [x] Add component-level interaction tests for API simulation and defect status controls
-- [ ] Route protected administration pages through guarded data procedures
-- [ ] Wire tested API and defect controls into the live workspace views
+- [x] Route protected administration pages through guarded data procedures
+- [x] Wire tested API and defect controls into the live workspace views
+- [x] Verify protected Team and Audit views select guarded administration procedures
